@@ -90,5 +90,20 @@ Assets/
 
 ## 备注
 
-- 仓库体积较大，包含多套第三方美术与特效资源（ARPG Effects、KriptoFX Volumetric BloodFX、Drakkar Trail、GhostSamurai Animset 等），**版权归各自作者所有**，仅供学习与原型验证使用，请勿商用。
+### 关于资源缺失（重要）
+
+本仓库**仅包含代码与自有资源**。以下第三方 Asset Store 资源包体积过大（合计约 6.1 GB），已通过 `.gitignore` 排除，**克隆后需自行从 Asset Store 重新导入**，否则场景中相关引用会显示为 Missing：
+
+| 已排除目录 | 内容 |
+|---|---|
+| `Assets/SceneProject/` | AsianDynastyEnvironment、Jungle-Tropical Vegetation 等环境资源 |
+| `Assets/Resources/` | KriptoFX Volumetric BloodFX、Drakkar Trail、GhostSamurai Animset 等特效与模型 |
+| `Assets/ARPG Effects/` | ARPG 技能特效包 |
+
+此外，`Assets/GameScenes/BattleField_2.unity` 单文件 144 MB，**超出 GitHub 单文件 100 MB 硬限制**，同样未纳入版本库（本地开发机上保留完整副本）。
+
+上述第三方资源的版权归各自作者所有，仅供学习与原型验证使用，请勿商用。
+
+### 其他
+
 - 项目进度与待办见 [TODO.md](./TODO.md)。
