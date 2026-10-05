@@ -1,0 +1,1489 @@
+fileFormatVersion: 2
+guid: eeea916c2541f004083994b6730e8ee7
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: hanfu1_hip
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lThighBend
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rThighBend
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lShin
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rShin
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_abdomenLower
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_abdomenUpper
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_neckLower
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lCollar
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rCollar
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lShldrBend
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rShldrBend
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lForearmBend
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rForearmBend
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lToe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rToe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lowerJaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lMid1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lMid2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lMid3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_lPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rMid1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rMid2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rMid3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_rPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hanfu1_chestLower
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: "\u670D\u88C51(Clone)"
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_Genesis8Female
+      parentName: "\u670D\u88C51(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_Genesis8Female_Shape
+      parentName: hanfu1_Genesis8Female
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_Genesis8FemaleEyelashes_Shape
+      parentName: hanfu1_Genesis8Female
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_Hypnotic_Gloves_13830_Shape
+      parentName: hanfu1_Genesis8Female
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_Maris_Hair_149406_Shape
+      parentName: hanfu1_Genesis8Female
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_Hanfu_Shirt_22884_Shape
+      parentName: hanfu1_Genesis8Female
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_hanfu_B_SkirtOBJ_16869_Shape
+      parentName: hanfu1_Genesis8Female
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_Hypnotic_Stockings_6814_Shape
+      parentName: hanfu1_Genesis8Female
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_zelie_choker_4200_Shape
+      parentName: hanfu1_Genesis8Female
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_Althea_Sandal_R_7750_Shape
+      parentName: hanfu1_Genesis8Female
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_Althea_Sandal_L_7750_Shape
+      parentName: hanfu1_Genesis8Female
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_AS8_Pantie2_4047_Shape
+      parentName: hanfu1_Genesis8Female
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_hip
+      parentName: hanfu1_Genesis8Female
+      position: {x: 0.000000351534, y: 1.060282, z: 0.014978041}
+      rotation: {x: -0.000000021041467, y: -0.000000013207227, z: -2.9293235e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_pelvis
+      parentName: hanfu1_hip
+      position: {x: -0.0000053036038, y: 0.018018417, z: 0.0003809607}
+      rotation: {x: 0.000000023631475, y: 0.000000045459686, z: -0.000000014321109, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lThighBend
+      parentName: hanfu1_pelvis
+      position: {x: -0.07513748, y: -0.103974, z: -0.013316424}
+      rotation: {x: -0.0000000032136223, y: -0.000000052479773, z: 0.000000023296504, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lThighTwist
+      parentName: hanfu1_lThighBend
+      position: {x: -0.032962803, y: -0.21230216, z: -0.002367535}
+      rotation: {x: 6.236132e-10, y: 0.000000020227315, z: -0.000000008682464, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lShin
+      parentName: hanfu1_lThighTwist
+      position: {x: -0.0361639, y: -0.24790625, z: -0.01679319}
+      rotation: {x: 0.0000000017851985, y: 0.000000060401646, z: -0.0000000038018735, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lFoot
+      parentName: hanfu1_lShin
+      position: {x: -0.06353821, y: -0.4315475, z: -0.03030226}
+      rotation: {x: 0.0000000632483, y: 0.00000031929918, z: -0.000000007940646, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lMetatarsals
+      parentName: hanfu1_lFoot
+      position: {x: -0.0010961151, y: -0.005421381, z: -0.0073732897}
+      rotation: {x: -0.00000008164184, y: -0.00000031312567, z: 0.0000000036492016, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lToe
+      parentName: hanfu1_lMetatarsals
+      position: {x: -0.03986494, y: -0.04672291, z: 0.1199246}
+      rotation: {x: 0.000000036329276, y: -0.0000001467682, z: -0.000000055495963, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lSmallToe4
+      parentName: hanfu1_lToe
+      position: {x: -0.032365628, y: 0.0003922057, z: -0.009856252}
+      rotation: {x: -0.00000002159185, y: 0.00000012781774, z: 0.000000060631216, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lSmallToe4_2
+      parentName: hanfu1_lSmallToe4
+      position: {x: -0.002600498, y: -0.004121017, z: 0.010356483}
+      rotation: {x: 0.0000000029057237, y: 0.0000000071856325, z: 7.2962303e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lSmallToe3
+      parentName: hanfu1_lToe
+      position: {x: -0.0178796, y: 0.0022673702, z: -0.0013981867}
+      rotation: {x: 0.00000017974335, y: 0.0000003335628, z: 0.00000013433144, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lSmallToe3_2
+      parentName: hanfu1_lSmallToe3
+      position: {x: -0.004954967, y: -0.0052381754, z: 0.013474064}
+      rotation: {x: -0.00000019842948, y: -0.00000019855943, z: -0.000000072970636, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lSmallToe2
+      parentName: hanfu1_lToe
+      position: {x: -0.0077007483, y: 0.004747188, z: 0.005786104}
+      rotation: {x: 0.00000001826265, y: 0.00000008162694, z: 0.000000074083935, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lSmallToe2_2
+      parentName: hanfu1_lSmallToe2
+      position: {x: -0.006150627, y: -0.0060978173, z: 0.017861847}
+      rotation: {x: -0.000000036948773, y: 0.000000053376436, z: -0.000000012723106, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lSmallToe1
+      parentName: hanfu1_lToe
+      position: {x: 0.0073680496, y: 0.0041674613, z: 0.009525056}
+      rotation: {x: -0.000000032022093, y: 0.00000033190037, z: 0.000000056318903, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lSmallToe1_2
+      parentName: hanfu1_lSmallToe1
+      position: {x: -0.0078022573, y: -0.0054664803, z: 0.020637035}
+      rotation: {x: 0.0000000133359555, y: -0.000000196897, z: 0.00000000504193, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lBigToe
+      parentName: hanfu1_lToe
+      position: {x: 0.030087603, y: 0.00080842496, z: 0.010374994}
+      rotation: {x: -0.00000019044501, y: 0.00000010445858, z: -0.0000000043554915, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lBigToe_2
+      parentName: hanfu1_lBigToe
+      position: {x: -0.009050637, y: -0.006371648, z: 0.023655104}
+      rotation: {x: 0.00000017175888, y: 0.000000030544783, z: 0.00000006571635, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rThighBend
+      parentName: hanfu1_pelvis
+      position: {x: 0.07513202, y: -0.104040526, z: -0.0133247925}
+      rotation: {x: -0.0000000036625298, y: -0.00000003138011, z: -4.2941295e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rThighTwist
+      parentName: hanfu1_rThighBend
+      position: {x: 0.032978706, y: -0.21227439, z: -0.0023512132}
+      rotation: {x: 0.0000000010725214, y: -8.7234725e-10, z: 0.000000015043454, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rShin
+      parentName: hanfu1_rThighTwist
+      position: {x: 0.03616997, y: -0.24788211, z: -0.016804988}
+      rotation: {x: 0.0000000015826163, y: 0.000000040505697, z: 0.000000003261797, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rFoot
+      parentName: hanfu1_rShin
+      position: {x: 0.06353206, y: -0.43152907, z: -0.030291885}
+      rotation: {x: -0.00000012730621, y: 0.00000028384872, z: -0.000000023946086, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rMetatarsals
+      parentName: hanfu1_rFoot
+      position: {x: 0.001093235, y: -0.00542366, z: -0.0073934933}
+      rotation: {x: 0.00000011954711, y: -0.0000002750647, z: 0.000000020141226, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rToe
+      parentName: hanfu1_rMetatarsals
+      position: {x: 0.039863605, y: -0.04673373, z: 0.11993158}
+      rotation: {x: -0.000000013489428, y: -0.000000041064684, z: -0.0000000629047, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rSmallToe4
+      parentName: hanfu1_rToe
+      position: {x: 0.03237064, y: 0.00040175437, z: -0.009849463}
+      rotation: {x: -0.000000077425426, y: 0.0000001445361, z: 0.0000000853083, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rSmallToe4_2
+      parentName: hanfu1_rSmallToe4
+      position: {x: 0.0025994873, y: -0.004121742, z: 0.01035583}
+      rotation: {x: 0.00000009604652, y: -0.0000001246168, z: -0.000000024109301, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rSmallToe3
+      parentName: hanfu1_rToe
+      position: {x: 0.017885666, y: 0.002266605, z: -0.0013913249}
+      rotation: {x: 0.00000012998291, y: 0.00000016727779, z: 0.000000020269752, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rSmallToe3_2
+      parentName: hanfu1_rSmallToe3
+      position: {x: 0.004952106, y: -0.0052331067, z: 0.013473882}
+      rotation: {x: -0.000000111361814, y: -0.00000014735846, z: 0.000000040929244, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rSmallToe2
+      parentName: hanfu1_rToe
+      position: {x: 0.007707958, y: 0.0047563645, z: 0.005793872}
+      rotation: {x: -0.00000010754776, y: -0.0000001568674, z: 0.00000010461227, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rSmallToe2_2
+      parentName: hanfu1_rSmallToe2
+      position: {x: 0.0061445045, y: -0.006100774, z: 0.017857322}
+      rotation: {x: 0.00000012616889, y: 0.0000001767867, z: -0.000000043413266, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rSmallToe1
+      parentName: hanfu1_rToe
+      position: {x: -0.007364273, y: 0.004180772, z: 0.009530005}
+      rotation: {x: 0.000000083249034, y: 0.000000007725958, z: 0.000000036761385, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rSmallToe1_2
+      parentName: hanfu1_rSmallToe1
+      position: {x: 0.007804241, y: -0.0054772473, z: 0.020639172}
+      rotation: {x: -0.00000006462793, y: 0.000000012193352, z: 0.000000024437607, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rBigToe
+      parentName: hanfu1_rToe
+      position: {x: -0.030076865, y: 0.00082156894, z: 0.01038332}
+      rotation: {x: -0.00000010759061, y: 0.000000093673655, z: 0.000000109451705, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rBigToe_2
+      parentName: hanfu1_rBigToe
+      position: {x: 0.009043446, y: -0.0063707563, z: 0.023654398}
+      rotation: {x: 0.00000012621172, y: -0.00000007375436, z: -0.00000004825271, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_abdomenLower
+      parentName: hanfu1_hip
+      position: {x: 0.000002693657, y: 0.016725158, z: -0.013852304}
+      rotation: {x: 0.000000021041467, y: 0.000000013207227, z: 2.9293235e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_abdomenUpper
+      parentName: hanfu1_abdomenLower
+      position: {x: -0.000012453426, y: 0.08092102, z: 0.010883877}
+      rotation: {x: 0.00000008708891, y: -0.0000000021490332, z: 1.1687942e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_chestLower
+      parentName: hanfu1_abdomenUpper
+      position: {x: 0.000005685801, y: 0.07911697, z: -0.003687697}
+      rotation: {x: -0.000000054338695, y: 0.0000000027738354, z: -6.5151363e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lPectoral
+      parentName: hanfu1_chestLower
+      position: {x: -0.028797526, y: 0.09103126, z: -0.08059062}
+      rotation: {x: 0.000000011002105, y: -9.976717e-11, z: -1.6663747e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rPectoral
+      parentName: hanfu1_chestLower
+      position: {x: 0.028790126, y: 0.09102501, z: -0.08058258}
+      rotation: {x: 0.000000011002105, y: -9.976717e-11, z: -1.6663747e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_chestUpper
+      parentName: hanfu1_chestLower
+      position: {x: -0.000004942533, y: 0.13018654, z: -0.032632697}
+      rotation: {x: 0.0000000093419805, y: 0.00000006559734, z: 0.0000000035075156, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lCollar
+      parentName: hanfu1_chestUpper
+      position: {x: -0.03097937, y: 0.10568725, z: -0.014655733}
+      rotation: {x: 0.0000000016601245, y: -0.00000006569711, z: -0.0000000035091814, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lShldrBend
+      parentName: hanfu1_lCollar
+      position: {x: -0.10856667, y: -0.014080352, z: -0.008084678}
+      rotation: {x: -0.0000034333113, y: -0.001561734, z: -0.3742508, w: 0.9273262}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lShldrTwist
+      parentName: hanfu1_lShldrBend
+      position: {x: -0.07948488, y: -0.08422226, z: 0.0021247244}
+      rotation: {x: 3.7868042e-11, y: 0.0000000605654, z: -0.000000030467383, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lForearmBend
+      parentName: hanfu1_lShldrTwist
+      position: {x: -0.10007395, y: -0.10582145, z: -0.0013300467}
+      rotation: {x: 0.06915107, y: -0.07170981, z: 0.0019005637, w: 0.9950238}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lForearmTwist
+      parentName: hanfu1_lForearmBend
+      position: {x: -0.08498432, y: -0.07982002, z: 0.033721574}
+      rotation: {x: -0.000000015030864, y: 0.000000018645693, z: -0.000000038072823, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lHand
+      parentName: hanfu1_lForearmTwist
+      position: {x: -0.098444976, y: -0.09516159, z: 0.03807615}
+      rotation: {x: 0.000000002946272, y: 0.0000000073005872, z: 0.00000000761751, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_Katana
+      parentName: hanfu1_lHand
+      position: {x: -0.015657539, y: -0.055770107, z: -0.01247771}
+      rotation: {x: -0.21196587, y: -0.65403515, z: 0.68273896, w: 0.24733812}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_Katana_Shape
+      parentName: hanfu1_Katana
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -1.07552856e-16, y: -2.3418767e-16, z: -3.8163916e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lThumb1
+      parentName: hanfu1_lHand
+      position: {x: -0.0053286743, y: -0.014582443, z: 0.015089504}
+      rotation: {x: -0.011924582, y: -0.021134304, z: -0.017744232, w: 0.999548}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lThumb2
+      parentName: hanfu1_lThumb1
+      position: {x: -0.0100189205, y: -0.020803299, z: 0.03151066}
+      rotation: {x: -0.14429557, y: 0.040878795, z: -0.018891366, w: 0.9885095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lThumb3
+      parentName: hanfu1_lThumb2
+      position: {x: -0.008282776, y: -0.022187117, z: 0.015254521}
+      rotation: {x: -0.0000000047579656, y: 0.00000012315132, z: -0.0000000025834423, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lCarpal1
+      parentName: hanfu1_lHand
+      position: {x: -0.005706596, y: -0.0005336761, z: 0.010771709}
+      rotation: {x: 0.0000001081144, y: -0.0000001240371, z: 0.00000004696634, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lIndex1
+      parentName: hanfu1_lCarpal1
+      position: {x: -0.046389885, y: -0.05087387, z: 0.018377116}
+      rotation: {x: -0.0000000040471213, y: -0.000000058076733, z: -0.0000000102162625, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lIndex2
+      parentName: hanfu1_lIndex1
+      position: {x: -0.023470802, y: -0.02764595, z: 0.005674314}
+      rotation: {x: 0.000000007819941, y: 0.00000026351375, z: 0.000000076410764, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lIndex3
+      parentName: hanfu1_lIndex2
+      position: {x: -0.01245018, y: -0.0150936125, z: 0.0017651652}
+      rotation: {x: -0.000000015106634, y: -0.00000018419183, z: -0.00000010655096, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lCarpal2
+      parentName: hanfu1_lHand
+      position: {x: -0.0074876784, y: -0.0019670106, z: 0.0024998926}
+      rotation: {x: 0.0000001062761, y: -0.00000021941466, z: 0.00000005085949, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lMid1
+      parentName: hanfu1_lCarpal2
+      position: {x: -0.04850807, y: -0.050322797, z: 0.007593894}
+      rotation: {x: -0.0000000022088171, y: 0.00000003730083, z: -0.0000000141094265, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lMid2
+      parentName: hanfu1_lMid1
+      position: {x: -0.02794548, y: -0.029592514, z: 0.002482817}
+      rotation: {x: 0.00015681495, y: -0.001392068, z: -0.014827045, w: 0.99988914}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lMid3
+      parentName: hanfu1_lMid2
+      position: {x: -0.014228363, y: -0.01889923, z: 0.001623919}
+      rotation: {x: -0.0000000041547787, y: -0.000000046361116, z: -0.000000036403097, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lCarpal3
+      parentName: hanfu1_lHand
+      position: {x: -0.008036994, y: -0.0022122192, z: -0.0068204687}
+      rotation: {x: 0.00000010406728, y: -0.00000018211384, z: 0.000000036750066, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lRing1
+      parentName: hanfu1_lCarpal3
+      position: {x: -0.044347458, y: -0.047182158, z: -0.00069776294}
+      rotation: {x: -0.01547118, y: 0.014427112, z: -0.0110892765, w: 0.99971473}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lRing2
+      parentName: hanfu1_lRing1
+      position: {x: -0.024876213, y: -0.028313445, z: -0.0021295953}
+      rotation: {x: 0.000000008919054, y: -0.00000036009007, z: -0.00000011685994, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lRing3
+      parentName: hanfu1_lRing2
+      position: {x: -0.013357086, y: -0.015580367, z: -0.00083878275}
+      rotation: {x: -0.0000000029870786, y: 0.00000025999321, z: 0.000000047567145, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lCarpal4
+      parentName: hanfu1_lHand
+      position: {x: -0.008076859, y: -0.0019853972, z: -0.015307143}
+      rotation: {x: 0.00000010406728, y: -0.00000018211384, z: 0.000000036750066, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lPinky1
+      parentName: hanfu1_lCarpal4
+      position: {x: -0.037047155, y: -0.04706474, z: -0.011140279}
+      rotation: {x: -0.035603534, y: 0.034633424, z: -0.018097872, w: 0.9986018}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lPinky2
+      parentName: hanfu1_lPinky1
+      position: {x: -0.017379416, y: -0.019509582, z: -0.0031447767}
+      rotation: {x: 0.00000000912925, y: 0.00000027072505, z: -0.000000059302412, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lPinky3
+      parentName: hanfu1_lPinky2
+      position: {x: -0.010540695, y: -0.011671982, z: -0.0017813133}
+      rotation: {x: -0.000000022637735, y: -0.0000001951778, z: 0.00000013395606, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rCollar
+      parentName: hanfu1_chestUpper
+      position: {x: 0.030981509, y: 0.10572189, z: -0.014666068}
+      rotation: {x: 0.0000000016601245, y: -0.00000006569711, z: -0.0000000035091814, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rShldrBend
+      parentName: hanfu1_rCollar
+      position: {x: 0.10855751, y: -0.0141618345, z: -0.008063891}
+      rotation: {x: 0.0000034242837, y: 0.0015612008, z: 0.37419325, w: 0.9273495}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rShldrTwist
+      parentName: hanfu1_rShldrBend
+      position: {x: 0.07949285, y: -0.084182434, z: 0.0021167707}
+      rotation: {x: 3.7734482e-10, y: -0.00000003694868, z: -0.000000054277358, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rForearmBend
+      parentName: hanfu1_rShldrTwist
+      position: {x: 0.10008613, y: -0.105837554, z: -0.0013256264}
+      rotation: {x: 0.06913939, y: 0.07171571, z: -0.0018671175, w: 0.99502426}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rForearmTwist
+      parentName: hanfu1_rForearmBend
+      position: {x: 0.084984094, y: -0.07981155, z: 0.0337147}
+      rotation: {x: 0.000000016964297, y: -0.000000009973812, z: -0.000000043180293, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rHand
+      parentName: hanfu1_rForearmTwist
+      position: {x: 0.0984428, y: -0.09515694, z: 0.038074214}
+      rotation: {x: -0.0000000064542696, y: -0.000000015547325, z: 0.000000016687835, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_katana_8
+      parentName: hanfu1_rHand
+      position: {x: 0.018823432, y: -0.049765628, z: 0.16840936}
+      rotation: {x: 0.69649696, y: 0.16497377, z: 0.16095631, w: 0.6795357}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_katana_8_Shape
+      parentName: hanfu1_katana_8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -3.593984e-36, y: -6.109367e-18, z: -5.882743e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rThumb1
+      parentName: hanfu1_rHand
+      position: {x: 0.0053409575, y: -0.014574279, z: 0.015090203}
+      rotation: {x: -0.011956407, y: 0.021225424, z: 0.01780765, w: 0.9995446}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rThumb2
+      parentName: hanfu1_rThumb1
+      position: {x: 0.010013771, y: -0.020795135, z: 0.031509813}
+      rotation: {x: -0.14465408, y: -0.040845346, z: 0.019014712, w: 0.9884561}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rThumb3
+      parentName: hanfu1_rThumb2
+      position: {x: 0.008277397, y: -0.022212753, z: 0.015254421}
+      rotation: {x: 0.000000034974775, y: -0.00000008897799, z: -0.000000018978117, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rCarpal1
+      parentName: hanfu1_rHand
+      position: {x: 0.00571949, y: -0.00050674437, z: 0.010773454}
+      rotation: {x: 0.00000010757152, y: -0.0000000064514993, z: -0.00000005263618, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rIndex1
+      parentName: hanfu1_rCarpal1
+      position: {x: 0.04638771, y: -0.050890427, z: 0.018376369}
+      rotation: {x: -0.0000000067098034, y: 0.000000006987441, z: 0.000000016937644, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rIndex2
+      parentName: hanfu1_rIndex1
+      position: {x: 0.023456039, y: -0.027666321, z: 0.0056738947}
+      rotation: {x: 0.000000011461422, y: -0.00000016368801, z: -0.00000008010244, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rIndex3
+      parentName: hanfu1_rIndex2
+      position: {x: 0.012450981, y: -0.015086746, z: 0.0017650985}
+      rotation: {x: -0.00000001120587, y: 0.00000006258668, z: 0.00000007904601, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rCarpal2
+      parentName: hanfu1_rHand
+      position: {x: 0.0075016404, y: -0.001971283, z: 0.002500801}
+      rotation: {x: 0.00000010539818, y: -0.00000007994935, z: -0.00000006467854, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rMid1
+      parentName: hanfu1_rCarpal2
+      position: {x: 0.04850727, y: -0.05030151, z: 0.007593212}
+      rotation: {x: -0.000000004536461, y: 0.00000008048529, z: 0.00000002897999, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rMid2
+      parentName: hanfu1_rMid1
+      position: {x: 0.027923621, y: -0.029618606, z: 0.0024836229}
+      rotation: {x: 0.00015567304, y: 0.001339499, z: 0.014223893, w: 0.99989796}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rMid3
+      parentName: hanfu1_rMid2
+      position: {x: 0.014234505, y: -0.018894577, z: 0.0016235614}
+      rotation: {x: 0.000000005435701, y: -0.00000006889314, z: -0.000000047657302, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rCarpal3
+      parentName: hanfu1_rHand
+      position: {x: 0.008044128, y: -0.0022050475, z: -0.006817149}
+      rotation: {x: 0.00000010086172, y: 5.359394e-10, z: -0.000000035698537, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rRing1
+      parentName: hanfu1_rCarpal3
+      position: {x: 0.044351004, y: -0.04717819, z: -0.00070111273}
+      rotation: {x: -0.015565704, y: -0.0145066595, z: 0.011246224, w: 0.9997104}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rRing2
+      parentName: hanfu1_rRing1
+      position: {x: 0.024861373, y: -0.028326264, z: -0.0021282316}
+      rotation: {x: -0.00000000909711, y: -0.00000002389488, z: -0.00000011263771, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rRing3
+      parentName: hanfu1_rRing2
+      position: {x: 0.013363189, y: -0.0155850975, z: -0.0008385217}
+      rotation: {x: 0.0000000014966198, y: 0.00000006477341, z: 0.000000023851063, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rCarpal4
+      parentName: hanfu1_rHand
+      position: {x: 0.008080253, y: -0.00197464, z: -0.015304524}
+      rotation: {x: 0.00000010086172, y: 5.359401e-10, z: -0.000000035698537, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rPinky1
+      parentName: hanfu1_rCarpal4
+      position: {x: 0.037036896, y: -0.047084503, z: -0.011143522}
+      rotation: {x: -0.035569124, y: -0.034616526, z: 0.018098809, w: 0.9986035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rPinky2
+      parentName: hanfu1_rPinky1
+      position: {x: 0.017385177, y: -0.01950676, z: -0.0031426023}
+      rotation: {x: -0.000000040907608, y: -0.0000003353874, z: -0.00000023976642, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rPinky3
+      parentName: hanfu1_rPinky2
+      position: {x: 0.010542946, y: -0.011669387, z: -0.001780867}
+      rotation: {x: 0.000000034691837, y: 0.00000027621434, z: 0.00000020538016, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_neckLower
+      parentName: hanfu1_chestUpper
+      position: {x: 0.000007849208, y: 0.17728546, z: -0.014217171}
+      rotation: {x: 0.000000053588757, y: -0.00000006576531, z: -0.0000000035155392, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_neckUpper
+      parentName: hanfu1_neckLower
+      position: {x: 0.000002284202, y: 0.031688843, z: 0.018646637}
+      rotation: {x: -0.00000014536455, y: -0.000000013398256, z: -8.318865e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_head
+      parentName: hanfu1_neckUpper
+      position: {x: -0.000016334763, y: 0.044991303, z: 0.0018207681}
+      rotation: {x: 0.000000093435915, y: 0.000000013466463, z: 8.3824847e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_upperTeeth
+      parentName: hanfu1_head
+      position: {x: 0.000017347698, y: 0.0014018249, z: 0.07633281}
+      rotation: {x: -0.000000032716258, y: 1.2832031e-10, z: 7.435223e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lEye
+      parentName: hanfu1_head
+      position: {x: -0.031866223, y: 0.058141783, z: 0.08114929}
+      rotation: {x: -0.000000032716258, y: 1.2832031e-10, z: 7.435223e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rEye
+      parentName: hanfu1_head
+      position: {x: 0.031895865, y: 0.058143158, z: 0.08114903}
+      rotation: {x: -0.000000032716258, y: 1.2832031e-10, z: 7.435223e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_upperFaceRig
+      parentName: hanfu1_head
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 5.3776428e-17, y: 2.424457e-38, z: 4.2351647e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_MidNoseBridge
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.000013932262, y: 0.05552902, z: 0.10480608}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lSquintInner
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.026730487, y: 0.044443052, z: 0.095242135}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lSquintOuter
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.04857605, y: 0.048420865, z: 0.088213004}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rSquintInner
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.026756024, y: 0.0444104, z: 0.09527886}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rSquintOuter
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.048545104, y: 0.04856018, z: 0.088247396}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_Nose
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.000013889331, y: 0.022812195, z: 0.11684408}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lNostril
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.0097859055, y: 0.01874298, z: 0.11037687}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rNostril
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.009814466, y: 0.018735046, z: 0.11037714}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lLipBelowNose
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.010332805, y: 0.006726074, z: 0.10226168}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rLipBelowNose
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.010362566, y: 0.0067189024, z: 0.10226339}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lLipNasolabialCrease
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.020876782, y: 0.00087142945, z: 0.10340127}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rLipNasolabialCrease
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.020906532, y: 0.0008735657, z: 0.103405476}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lNasolabialUpper
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.016321495, y: 0.036163483, z: 0.102334686}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rNasolabialUpper
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.016350152, y: 0.036160886, z: 0.10233463}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lNasolabialMiddle
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.025895054, y: 0.01613083, z: 0.10078808}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rNasolabialMiddle
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.025922121, y: 0.016122589, z: 0.10078701}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_LipUpperMiddle
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.000014193107, y: -0.001337738, z: 0.1083531}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lLipUpperOuter
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.01647963, y: -0.0066706846, z: 0.10230017}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lLipUpperInner
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.0091639245, y: -0.0040147398, z: 0.10510748}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rLipUpperInner
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.009201635, y: -0.0040150452, z: 0.10511133}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rLipUpperOuter
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.016509552, y: -0.006674347, z: 0.10230684}
+      rotation: {x: -0.0000000056558576, y: -0.000000011891578, z: 0.0000000010997763, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lEyelidInner
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.031879663, y: 0.05824188, z: 0.081118874}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lEyelidUpperInner
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.031840887, y: 0.058418274, z: 0.08126641}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lEyelidUpper
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.03212381, y: 0.058414306, z: 0.081280895}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lEyelidUpperOuter
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.032391608, y: 0.05841171, z: 0.08129042}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lEyelidOuter
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.032311644, y: 0.05824478, z: 0.08114427}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lEyelidLowerOuter
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.032374125, y: 0.05806915, z: 0.08127952}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lEyelidLower
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.032109164, y: 0.05806152, z: 0.08126766}
+      rotation: {x: -5.551115e-17, y: -0, z: 9.62965e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lEyelidLowerInner
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.03183083, y: 0.05806793, z: 0.0812608}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rEyelidInner
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.03187791, y: 0.05824371, z: 0.08103321}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rEyelidUpperInner
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.03183606, y: 0.058420103, z: 0.08118381}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rEyelidUpper
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.03212402, y: 0.058427274, z: 0.081194095}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rEyelidUpperOuter
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.03239679, y: 0.058427732, z: 0.08120476}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rEyelidOuter
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.03231048, y: 0.058253326, z: 0.08105711}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rEyelidLowerOuter
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.03237502, y: 0.05808136, z: 0.08119188}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rEyelidLower
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.032108102, y: 0.058071136, z: 0.08118318}
+      rotation: {x: -5.551115e-17, y: -0, z: -9.62965e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rEyelidLowerInner
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.031830803, y: 0.058072202, z: 0.0811751}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rBrowInner
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.020287603, y: 0.077519685, z: 0.10433376}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rBrowMid
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.03892848, y: 0.07984405, z: 0.10194109}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rBrowOuter
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.054600094, y: 0.07341247, z: 0.090476476}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lBrowInner
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.020261232, y: 0.0775209, z: 0.104332104}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lBrowMid
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.038899217, y: 0.07984192, z: 0.10194074}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lBrowOuter
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.05456983, y: 0.073415376, z: 0.09047639}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_CenterBrow
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.000014314716, y: 0.07657989, z: 0.10886905}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lCheekUpper
+      parentName: hanfu1_upperFaceRig
+      position: {x: -0.051291015, y: 0.027930144, z: 0.08662613}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rCheekUpper
+      parentName: hanfu1_upperFaceRig
+      position: {x: 0.05132008, y: 0.0279364, z: 0.086626016}
+      rotation: {x: -5.551115e-17, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lEar
+      parentName: hanfu1_head
+      position: {x: -0.06929357, y: 0.039276887, z: 0.007120373}
+      rotation: {x: -1.7347235e-18, y: 7.34684e-40, z: 4.2351647e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rEar
+      parentName: hanfu1_head
+      position: {x: 0.0691134, y: 0.039275054, z: 0.0070788357}
+      rotation: {x: -1.7347235e-18, y: 7.34684e-40, z: 4.2351647e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lowerJaw_2
+      parentName: hanfu1_head
+      position: {x: 0.00005080447, y: 0.20059569, z: -0.09241928}
+      rotation: {x: -1.7347235e-18, y: 7.34684e-40, z: 4.2351647e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lowerJaw
+      parentName: hanfu1_head
+      position: {x: 0.000004804657, y: 0.015492706, z: 0.019198745}
+      rotation: {x: -2.1111585e-15, y: 4.065758e-20, z: 2.6130966e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lowerTeeth
+      parentName: hanfu1_lowerJaw
+      position: {x: 0.000006702139, y: -0.024705352, z: 0.05460511}
+      rotation: {x: -0.000000043597836, y: -2.3078811e-10, z: 1.0294256e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_tongue01
+      parentName: hanfu1_lowerTeeth
+      position: {x: -0.000003812306, y: -0.011351471, z: -0.018281275}
+      rotation: {x: 0.000000046503608, y: -7.471845e-11, z: -1.1274058e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_tongue02
+      parentName: hanfu1_tongue01
+      position: {x: 0.0000006682885, y: 0.007905578, z: 0.010026429}
+      rotation: {x: -0.00000011395352, y: 7.6306315e-11, z: 8.0588626e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_tongue03
+      parentName: hanfu1_tongue02
+      position: {x: 0.000007773352, y: 0.0019544982, z: 0.011953468}
+      rotation: {x: 0.00000020991392, y: -1.5307816e-10, z: -5.3176102e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_tongue04
+      parentName: hanfu1_tongue03
+      position: {x: -0.000003803987, y: -0.0003477478, z: 0.011464781}
+      rotation: {x: -0.00000008485007, y: 9.174126e-12, z: -2.815305e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lowerFaceRig
+      parentName: hanfu1_lowerJaw
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 2.1926905e-15, y: -6.942959e-17, z: 4.1372477e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lNasolabialLower
+      parentName: hanfu1_lowerFaceRig
+      position: {x: -0.02474419, y: -0.043106385, z: 0.06400171}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rNasolabialLower
+      parentName: hanfu1_lowerFaceRig
+      position: {x: 0.024758624, y: -0.043101195, z: 0.06400867}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lNasolabialMouthCorner
+      parentName: hanfu1_lowerFaceRig
+      position: {x: -0.035939716, y: -0.02438202, z: 0.06794885}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rNasolabialMouthCorner
+      parentName: hanfu1_lowerFaceRig
+      position: {x: 0.035961177, y: -0.024378205, z: 0.067959815}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lLipCorner
+      parentName: hanfu1_lowerFaceRig
+      position: {x: -0.026672589, y: -0.025128936, z: 0.072187334}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lLipLowerOuter
+      parentName: hanfu1_lowerFaceRig
+      position: {x: -0.016145816, y: -0.028915253, z: 0.07879288}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lLipLowerInner
+      parentName: hanfu1_lowerFaceRig
+      position: {x: -0.00877816, y: -0.03122116, z: 0.08131296}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_LipLowerMiddle
+      parentName: hanfu1_lowerFaceRig
+      position: {x: 0.000007997244, y: -0.033175047, z: 0.083897024}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rLipLowerInner
+      parentName: hanfu1_lowerFaceRig
+      position: {x: 0.0087965, y: -0.031217499, z: 0.08131243}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rLipLowerOuter
+      parentName: hanfu1_lowerFaceRig
+      position: {x: 0.016167147, y: -0.028913116, z: 0.07880507}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rLipCorner
+      parentName: hanfu1_lowerFaceRig
+      position: {x: 0.026693761, y: -0.025124053, z: 0.07219294}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_LipBelow
+      parentName: hanfu1_lowerFaceRig
+      position: {x: 0.000009486553, y: -0.043517303, z: 0.07990513}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_Chin
+      parentName: hanfu1_lowerFaceRig
+      position: {x: 0.00000769544, y: -0.055175018, z: 0.07017736}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lCheekLower
+      parentName: hanfu1_lowerFaceRig
+      position: {x: -0.050766297, y: -0.021586455, z: 0.050812896}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rCheekLower
+      parentName: hanfu1_lowerFaceRig
+      position: {x: 0.050784986, y: -0.021592254, z: 0.05081291}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_lJawClench
+      parentName: hanfu1_lowerFaceRig
+      position: {x: -0.056815796, y: -0.018991852, z: 0.007938404}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_rJawClench
+      parentName: hanfu1_lowerFaceRig
+      position: {x: 0.056830745, y: -0.018990783, z: 0.007937942}
+      rotation: {x: 0.00000000968395, y: -0.000000012149045, z: 0.0000000037439856, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hanfu1_BelowJaw
+      parentName: hanfu1_lowerFaceRig
+      position: {x: 0.000010671634, y: -0.06471496, z: 0.043157183}
+      rotation: {x: -8.326673e-17, y: 6.938893e-17, z: -4.1633363e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,92 @@
+# ======================================== #
+#              Unity Generated               #
+# ======================================== #
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Tt]emp/
+[Oo]bj/
+
+# ======================================== #
+#          IDE / Editor Settings            #
+# ======================================== #
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vsconfig
+
+# ======================================== #
+#        Auto-generated Project Files       #
+# ======================================== #
+*.csproj
+*.sln
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# ======================================== #
+#          Unity Specific                   #
+# ======================================== #
+AssetStoreTools/
+Consulo/
+
+# Crashlytics
+crashlytics-build.properties
+
+# ======================================== #
+#           OS Generated                    #
+# ======================================== #
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ======================================== #
+#               Packages                    #
+# ======================================== #
+# Uncomment if you want to ignore all packages
+# Packages/
+
+# ======================================== #
+#            Logs & Reports                 #
+# ======================================== #
+Logs/
+UserSettings/
+
+# ======================================== #
+#              Android                      #
+# ======================================== #
+*.apk
+*.aab
+*.obb
+
+# ======================================== #
+#              Misc                         #
+# ======================================== #
+*.pidb
+*.pdb
+*.mdb
+*.zip
+*.unitypackage
+
+# ======================================== #
+#   仓库体积控制：第三方资源与超大文件         #
+# ======================================== #
+# 以下目录为第三方 Asset Store 资源包，合计约 6.1 GB，
+# 不纳入版本库；需要时请从 Asset Store 重新导入。
+/Assets/SceneProject/
+/Assets/SceneProject.meta
+/Assets/Resources/
+/Assets/Resources.meta
+/Assets/ARPG Effects/
+/Assets/ARPG Effects.meta
+
+# 该场景单文件 144 MB，超出 GitHub 单文件 100 MB 硬限制，不纳入版本库。
+/Assets/GameScenes/BattleField_2.unity
+/Assets/GameScenes/BattleField_2.unity.meta
